@@ -9,7 +9,7 @@ The project focuses on clean UI design, smooth navigation, responsive layouts an
 ## 🌐 Live Demo
 
 🔗 **Live Website:**
-https://shekhar-himanshu-dbg.github.io/landing-page/
+https://github.com/nirajchaudhary295/CODSOFT_TASKSNO_2_LANDING-PAGE
 
 ---
 
@@ -118,7 +118,8 @@ To run this project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shekhar-himanshu-dbg/landing-page.git
+https://github.com/nirajchaudhary295/CODSOFT_TASKSNO_2_LANDING-PAGE
+
 ```
 
 ### 2. Open the project
@@ -146,13 +147,13 @@ For the best development experience, use **VS Code with Live Server**.
 If you'd like to connect or discuss a project:
 
 **Email:**
-[hs4636841@gmail.com](mailto:hs4636841@gmail.com)
+[nirajchaudhary295@gmail.com](mailto:nirajchaudhary295@gmail.com)
 
 **GitHub:**
-https://github.com/shekhar-himanshu-dbg
+https://github.com/nirajchaudhary295
 
 **LinkedIn:**
-https://linkedin.com/in/himanshu-shekhar-197a16386
+https://www.linkedin.com/in/niraj-chaudhary-26b2a1447
 
 ---
 
@@ -185,4 +186,4 @@ If you find this project useful or interesting, consider giving the repository a
 
 ### Made with ❤️ using HTML, CSS & JavaScript
 
-**Himanshu Shekhar**
+**Niraj chaudhary**
