@@ -9,7 +9,7 @@ The project focuses on clean UI design, smooth navigation, responsive layouts an
 ## 🌐 Live Demo
 
 🔗 **Live Website:**
-https://github.com/nirajchaudhary295/CODSOFT_TASKSNO_2_LANDING-PAGE
+https://nirajchaudhary295.github.io/CODSOFT_TASKSNO_2_LANDING-PAGE/
 
 ---
 
